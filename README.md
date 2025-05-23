@@ -8,10 +8,9 @@
 
 ### 💻 Sobre mim
 
-- 🎓 Técnico em Informática | Bacharelando em Sistemas de Informação  
-- 🧠 Em constante aprendizado, buscando evolução técnica e prática  
+- 🎓 Técnico em Informática | Bacharelando em Sistemas de Informação 
 - 💼 Atualmente: Desenvolvedor na **Atria Tecnologia**  
-- 📍 Fernandópolis – SP | Aberto a novos desafios  
+- 📍 Fernandópolis – SP  
 
 ---
 
@@ -27,8 +26,8 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
-📧 seu-email@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-coltro-36a307280)  
+📧 matheuscoltro.ofc@gmail.com
 
 ---
 
