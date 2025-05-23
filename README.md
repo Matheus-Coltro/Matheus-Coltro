@@ -1,9 +1,5 @@
 <h1 align="center">Olá! 👋 Sou Desenvolvedor Web</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Java+Spring+%7C+MySQL+%7C+Git+%7C+REST+APIs;Foco+em+solu%C3%A7%C3%B5es+eficientes+e+escal%C3%A1veis" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💻 Sobre mim
@@ -30,7 +26,3 @@
 📧 matheuscoltro.ofc@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&hide_title=true" />
-</p>
